@@ -1,0 +1,11 @@
+variable "region" {}
+variable "project_name" {}
+variable "cidr_block" {}
+variable "public_subnet_az2" {}
+variable "public_subnet_az1" {}
+variable "private_subnet_az1" {}
+variable "private_subnet_az2" {}
+variable "private_data_subnet_az1" {}
+variable "private_data_subnet_az2" {}
+variable "domain_name" {}
+variable "alternative_name" {}
