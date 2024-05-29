@@ -1,3 +1,3 @@
 # terrraform-lab-architure
-8 subnet, 8 instance,ALB, nat, igw, sg
+Ec2,ECS,VPC,IAM,SG,ALB
 learn terraform 
